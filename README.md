@@ -1,6 +1,8 @@
 # banana_chips
 Lomba winit tahun 2025 
 
+nama db nya harus banana_chip
+
 untuk user nya nanti bisa registrasi aja atau bisa juga menggunakan
 
 username: naufal9
